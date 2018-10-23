@@ -1,6 +1,6 @@
-# React and Redux
+# React and Redux Excercises
 
-A simple React + Redux app.
+A simple Catalog
 
 ## Running
 
